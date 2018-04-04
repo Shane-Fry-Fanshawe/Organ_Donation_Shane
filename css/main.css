@@ -578,6 +578,7 @@ margin-top: 100px;
 .product_showcase
 {
 	margin-top: 40px;
+	padding-bottom: 150px;
 }
 
 .socail_icons img
@@ -1036,6 +1037,14 @@ font-family: Lato;
 	.landing_stories
 	{
 		background-image: url("../images/stories_background.png");
+	}
+
+	.store_promo_text
+	{
+		float: left;
+		font-family: Lato;
+		color: #003e72;
+		font-size: 1.2em;
 	}
 
 	.why_text h2
